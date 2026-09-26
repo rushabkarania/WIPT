@@ -1,0 +1,24 @@
+adaptation,scorer,condition,n_shot,training_seed,best_epoch,best_validation_accuracy,elapsed_seconds_to_best,checkpoint,source
+none,euclidean,Raw + Euclidean,5,fixed,,,,,fixed_no_training
+none,cosine,Raw + Cosine,5,fixed,,,,,fixed_no_training
+none,relation,Raw + Relation,5,2,45.0,91.73333585262299,3308.057645559311,checkpoints\factorial\5shot\none_relation\seed_2\model.pth,factorial_trained
+none,relation,Raw + Relation,5,3,48.0,91.33333539962769,3523.68572306633,checkpoints\factorial\5shot\none_relation\seed_3\model.pth,factorial_trained
+none,relation,Raw + Relation,5,4,49.0,91.5200023651123,3584.6192848682404,checkpoints\factorial\5shot\none_relation\seed_4\model.pth,factorial_trained
+support,euclidean,Support-only + Euclidean,5,2,1.0,99.20000064373016,,checkpoints\seed_study\5shot\seed_2\support_transformer.pth,reused_seed_study
+support,euclidean,Support-only + Euclidean,5,3,3.0,99.1200008392334,,checkpoints\seed_study\5shot\seed_3\support_transformer.pth,reused_seed_study
+support,euclidean,Support-only + Euclidean,5,4,12.0,99.2266674041748,,checkpoints\seed_study\5shot\seed_4\support_transformer.pth,reused_seed_study
+support,cosine,Support-only + Cosine,5,2,1.0,98.74666774272919,74.00359106063843,checkpoints\factorial\5shot\support_cosine\seed_2\model.pth,factorial_trained
+support,cosine,Support-only + Cosine,5,3,1.0,98.53333461284637,73.77489066123962,checkpoints\factorial\5shot\support_cosine\seed_3\model.pth,factorial_trained
+support,cosine,Support-only + Cosine,5,4,1.0,98.05333483219147,73.74646091461182,checkpoints\factorial\5shot\support_cosine\seed_4\model.pth,factorial_trained
+support,relation,Support-only + Relation,5,2,39.0,90.53333568572998,2864.529222726822,checkpoints\factorial\5shot\support_relation\seed_2\model.pth,factorial_trained
+support,relation,Support-only + Relation,5,3,40.0,91.52000212669373,2938.9083456993103,checkpoints\factorial\5shot\support_relation\seed_3\model.pth,factorial_trained
+support,relation,Support-only + Relation,5,4,43.0,90.53333628177643,3158.353896856308,checkpoints\factorial\5shot\support_relation\seed_4\model.pth,factorial_trained
+joint,euclidean,WIPT + Euclidean,5,2,1.0,98.77333438396454,,checkpoints\seed_study\5shot\seed_2\wipt_l2.pth,reused_seed_study
+joint,euclidean,WIPT + Euclidean,5,3,3.0,98.74666774272919,,checkpoints\seed_study\5shot\seed_3\wipt_l2.pth,reused_seed_study
+joint,euclidean,WIPT + Euclidean,5,4,25.0,98.61333465576172,,checkpoints\seed_study\5shot\seed_4\wipt_l2.pth,reused_seed_study
+joint,cosine,WIPT + Cosine,5,2,1.0,86.56000196933746,135.06600141525269,checkpoints\factorial\5shot\joint_cosine\seed_2\model.pth,factorial_trained
+joint,cosine,WIPT + Cosine,5,3,1.0,90.16000247001648,134.73974633216858,checkpoints\factorial\5shot\joint_cosine\seed_3\model.pth,factorial_trained
+joint,cosine,WIPT + Cosine,5,4,1.0,87.52000200748444,135.58528089523315,checkpoints\factorial\5shot\joint_cosine\seed_4\model.pth,factorial_trained
+joint,relation,WIPT + Relation,5,2,21.0,89.97333538532257,2915.6487555503845,checkpoints\factorial\5shot\joint_relation\seed_2\model.pth,factorial_trained
+joint,relation,WIPT + Relation,5,3,40.0,90.16000247001648,5433.880575418472,checkpoints\factorial\5shot\joint_relation\seed_3\model.pth,factorial_trained
+joint,relation,WIPT + Relation,5,4,32.0,88.40000224113464,4330.123104333878,checkpoints\factorial\5shot\joint_relation\seed_4\model.pth,factorial_trained

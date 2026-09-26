@@ -1,0 +1,17 @@
+n_shot,query_group_size,training_seed,best_epoch,best_validation_accuracy,validation_episode_ci95,elapsed_seconds_to_best,checkpoint,history
+5,2,1,1,98.74666786193848,0.39798065852996695,80.83524441719055,checkpoints\multiquery\5shot\q2\seed_1\wipt_l2.pth,checkpoints\multiquery\5shot\q2\seed_1\history.csv
+5,2,2,1,98.8533343076706,0.4839526052025017,79.73350858688354,checkpoints\multiquery\5shot\q2\seed_2\wipt_l2.pth,checkpoints\multiquery\5shot\q2\seed_2\history.csv
+5,2,3,3,98.82666766643524,0.4133051914869472,243.40223383903503,checkpoints\multiquery\5shot\q2\seed_3\wipt_l2.pth,checkpoints\multiquery\5shot\q2\seed_3\history.csv
+5,2,4,49,98.64000129699707,0.3695053594907637,4037.184462785721,checkpoints\multiquery\5shot\q2\seed_4\wipt_l2.pth,checkpoints\multiquery\5shot\q2\seed_4\history.csv
+5,3,1,1,98.77333450317383,0.39396801556954825,81.19499564170837,checkpoints\multiquery\5shot\q3\seed_1\wipt_l2.pth,checkpoints\multiquery\5shot\q3\seed_1\history.csv
+5,3,2,1,98.82666766643524,0.4818167041595631,81.39587187767029,checkpoints\multiquery\5shot\q3\seed_2\wipt_l2.pth,checkpoints\multiquery\5shot\q3\seed_2\history.csv
+5,3,3,3,98.8533343076706,0.41579318054192105,247.1905586719513,checkpoints\multiquery\5shot\q3\seed_3\wipt_l2.pth,checkpoints\multiquery\5shot\q3\seed_3\history.csv
+5,3,4,49,98.66666793823242,0.3807264272588997,4062.5783524513245,checkpoints\multiquery\5shot\q3\seed_4\wipt_l2.pth,checkpoints\multiquery\5shot\q3\seed_4\history.csv
+5,4,1,1,98.74666786193848,0.39798065852996695,83.0634241104126,checkpoints\multiquery\5shot\q4\seed_1\wipt_l2.pth,checkpoints\multiquery\5shot\q4\seed_1\history.csv
+5,4,2,1,98.8533343076706,0.4839526052025017,81.36050915718079,checkpoints\multiquery\5shot\q4\seed_2\wipt_l2.pth,checkpoints\multiquery\5shot\q4\seed_2\history.csv
+5,4,3,3,98.8533343076706,0.41579318054192105,245.45760798454285,checkpoints\multiquery\5shot\q4\seed_3\wipt_l2.pth,checkpoints\multiquery\5shot\q4\seed_3\history.csv
+5,4,4,49,98.64000129699707,0.3842972959145949,4013.9059476852417,checkpoints\multiquery\5shot\q4\seed_4\wipt_l2.pth,checkpoints\multiquery\5shot\q4\seed_4\history.csv
+5,5,1,1,98.74666786193848,0.39798065852996695,80.8006796836853,checkpoints\multiquery\5shot\q5\seed_1\wipt_l2.pth,checkpoints\multiquery\5shot\q5\seed_1\history.csv
+5,5,2,1,98.82666766643524,0.4818167041595631,75.44817113876343,checkpoints\multiquery\5shot\q5\seed_2\wipt_l2.pth,checkpoints\multiquery\5shot\q5\seed_2\history.csv
+5,5,3,3,98.77333438396454,0.44072281801420843,226.88307452201843,checkpoints\multiquery\5shot\q5\seed_3\wipt_l2.pth,checkpoints\multiquery\5shot\q5\seed_3\history.csv
+5,5,4,49,98.72000122070312,0.3730341913508643,3700.366371870041,checkpoints\multiquery\5shot\q5\seed_4\wipt_l2.pth,checkpoints\multiquery\5shot\q5\seed_4\history.csv

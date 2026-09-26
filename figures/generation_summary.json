@@ -1,0 +1,21 @@
+{
+  "figure_count": 8,
+  "format": "png",
+  "dpi": 300,
+  "pdf_also_generated": false,
+  "results": "results",
+  "figures": [
+    "architecture.png",
+    "cross_domain_performance.png",
+    "multiquery_efficiency.png",
+    "shot_domain_mechanism.png",
+    "boundary_analysis.png",
+    "corruption_response.png",
+    "margin_geometry.png",
+    "support_noise.png"
+  ],
+  "query_records_checked": 675000,
+  "paired_comparisons_checked": 12,
+  "boundary_bins": 120,
+  "scope": "Regeneration from existing result records; no model training."
+}

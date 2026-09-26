@@ -1,0 +1,11 @@
+model,training_seed,n_shot,best_epoch,best_validation_accuracy,validation_episode_ci95,checkpoint
+WIPT,0,1,2,95.65333545207977,1.2241917397199322,checkpoints\seed_study\1shot\seed_0\wipt_l2.pth
+Support-only Transformer,0,1,33,96.72000229358673,0.6851859266073945,checkpoints\seed_study\1shot\seed_0\support_transformer.pth
+WIPT,1,1,4,96.24000239372253,0.8697623097125591,checkpoints\seed_study\1shot\seed_1\wipt_l2.pth
+Support-only Transformer,1,1,19,96.7466688156128,0.79778089395566,checkpoints\seed_study\1shot\seed_1\support_transformer.pth
+WIPT,2,1,4,95.46666884422302,0.9933753815766413,checkpoints\seed_study\1shot\seed_2\wipt_l2.pth
+Support-only Transformer,2,1,29,96.61333513259888,0.7838576773929384,checkpoints\seed_study\1shot\seed_2\support_transformer.pth
+WIPT,3,1,1,96.37333559989929,0.9850339348751436,checkpoints\seed_study\1shot\seed_3\wipt_l2.pth
+Support-only Transformer,3,1,1,96.45333552360535,1.0522701342608438,checkpoints\seed_study\1shot\seed_3\support_transformer.pth
+WIPT,4,1,2,96.2666689157486,0.8179321087783277,checkpoints\seed_study\1shot\seed_4\wipt_l2.pth
+Support-only Transformer,4,1,9,96.8000020980835,0.7391621366470216,checkpoints\seed_study\1shot\seed_4\support_transformer.pth

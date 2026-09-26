@@ -1,0 +1,11 @@
+model,training_seed,n_shot,best_epoch,best_validation_accuracy,validation_episode_ci95,checkpoint
+WIPT,0,5,6,98.56000101566315,0.5427601931249761,checkpoints\seed_study\5shot\seed_0\wipt_l2.pth
+Support-only Transformer,0,5,6,99.01333427429199,0.400772559882685,checkpoints\seed_study\5shot\seed_0\support_transformer.pth
+WIPT,1,5,1,98.69333457946777,0.39854060345483117,checkpoints\seed_study\5shot\seed_1\wipt_l2.pth
+Support-only Transformer,1,5,1,99.0666675567627,0.33599967956542964,checkpoints\seed_study\5shot\seed_1\support_transformer.pth
+WIPT,2,5,1,98.77333438396454,0.46533542103890785,checkpoints\seed_study\5shot\seed_2\wipt_l2.pth
+Support-only Transformer,2,5,1,99.20000064373016,0.3502175326327403,checkpoints\seed_study\5shot\seed_2\support_transformer.pth
+WIPT,3,5,3,98.74666774272919,0.4184662557271824,checkpoints\seed_study\5shot\seed_3\wipt_l2.pth
+Support-only Transformer,3,5,3,99.1200008392334,0.3851667479216787,checkpoints\seed_study\5shot\seed_3\support_transformer.pth
+WIPT,4,5,25,98.61333465576172,0.3876915125091913,checkpoints\seed_study\5shot\seed_4\wipt_l2.pth
+Support-only Transformer,4,5,12,99.2266674041748,0.34289775308263154,checkpoints\seed_study\5shot\seed_4\support_transformer.pth

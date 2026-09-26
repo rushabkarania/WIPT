@@ -1,0 +1,7 @@
+dataset,comparison,mean_difference_pp,training_seed_sd_pp,training_seed_ci95_pp,n_training_seeds,positive_runs,negative_runs
+CUB,WIPT - Support-only Transformer,0.07377781470617606,,,1,1,0
+CUB,WIPT - ProtoNet,-0.0622221787770485,,,1,0,1
+EuroSAT,WIPT - Support-only Transformer,1.5608889381090734,,,1,1,0
+EuroSAT,WIPT - ProtoNet,-0.8640000422795708,,,1,0,1
+ISIC,WIPT - Support-only Transformer,2.008000124494238,,,1,1,0
+ISIC,WIPT - ProtoNet,-0.6284444183111191,,,1,0,1

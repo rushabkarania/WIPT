@@ -1,0 +1,5 @@
+-r requirements-analysis.txt
+torch>=2.0
+torchvision
+timm
+tqdm

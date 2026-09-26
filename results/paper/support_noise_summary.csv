@@ -1,0 +1,7 @@
+severity,condition,model,noise_amplification_ratio,absolute_margin,accuracy
+0,Clean,ProtoNet,not_applicable,15.0395,98.28
+0,Clean,WIPT,not_applicable,6.2453,98.3
+3,Severity 3,ProtoNet,0.6624,7.9967,97.28
+3,Severity 3,WIPT,0.6597,3.4222,96.78
+5,Severity 5,ProtoNet,0.7849,0.4024,55.69
+5,Severity 5,WIPT,0.8072,0.0502,47.53

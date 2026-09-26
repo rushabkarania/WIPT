@@ -1,0 +1,161 @@
+dataset,category,severity,training_seed,comparison,difference_pp
+EuroSAT,clean,0,0,WIPT - ProtoNet,-0.8746667623519926
+EuroSAT,clean,0,0,WIPT - Support-only Transformer,0.44133326411247253
+EuroSAT,clean,0,1,WIPT - ProtoNet,0.032000046968448714
+EuroSAT,clean,0,1,WIPT - Support-only Transformer,1.4173334538936615
+EuroSAT,clean,0,2,WIPT - ProtoNet,-0.03733323216438578
+EuroSAT,clean,0,2,WIPT - Support-only Transformer,1.1426668286323576
+EuroSAT,clean,0,3,WIPT - ProtoNet,-0.47066670060158344
+EuroSAT,clean,0,3,WIPT - Support-only Transformer,0.806666713953021
+EuroSAT,clean,0,4,WIPT - ProtoNet,-2.013333404064184
+EuroSAT,clean,0,4,WIPT - Support-only Transformer,-0.6520000040531215
+EuroSAT,A_structured,1,0,WIPT - ProtoNet,-1.0466667711734772
+EuroSAT,A_structured,1,0,WIPT - Support-only Transformer,-0.07199995517730429
+EuroSAT,A_structured,1,1,WIPT - ProtoNet,-0.07466685771942139
+EuroSAT,A_structured,1,1,WIPT - Support-only Transformer,1.1866665601730375
+EuroSAT,A_structured,1,2,WIPT - ProtoNet,-0.12666671872138124
+EuroSAT,A_structured,1,2,WIPT - Support-only Transformer,0.9653334558010158
+EuroSAT,A_structured,1,3,WIPT - ProtoNet,-0.7146668791770878
+EuroSAT,A_structured,1,3,WIPT - Support-only Transformer,0.575999969244009
+EuroSAT,A_structured,1,4,WIPT - ProtoNet,-2.0813335120677863
+EuroSAT,A_structured,1,4,WIPT - Support-only Transformer,-0.7533333957195225
+EuroSAT,A_structured,2,0,WIPT - ProtoNet,-1.4480000317096824
+EuroSAT,A_structured,2,0,WIPT - Support-only Transformer,0.07333328723906618
+EuroSAT,A_structured,2,1,WIPT - ProtoNet,-0.25333333015441895
+EuroSAT,A_structured,2,1,WIPT - Support-only Transformer,1.3146665692329407
+EuroSAT,A_structured,2,2,WIPT - ProtoNet,-0.265333360433587
+EuroSAT,A_structured,2,2,WIPT - Support-only Transformer,1.3093334138393402
+EuroSAT,A_structured,2,3,WIPT - ProtoNet,-0.7466665327549009
+EuroSAT,A_structured,2,3,WIPT - Support-only Transformer,1.212000060081479
+EuroSAT,A_structured,2,4,WIPT - ProtoNet,-2.393333268165591
+EuroSAT,A_structured,2,4,WIPT - Support-only Transformer,0.16000011563301086
+EuroSAT,A_structured,3,0,WIPT - ProtoNet,-1.3733333110809411
+EuroSAT,A_structured,3,0,WIPT - Support-only Transformer,0.5346667230129185
+EuroSAT,A_structured,3,1,WIPT - ProtoNet,-0.029333317279821358
+EuroSAT,A_structured,3,1,WIPT - Support-only Transformer,1.669333380460742
+EuroSAT,A_structured,3,2,WIPT - ProtoNet,-0.06133327484131712
+EuroSAT,A_structured,3,2,WIPT - Support-only Transformer,1.6826667487621307
+EuroSAT,A_structured,3,3,WIPT - ProtoNet,-0.5853333413600978
+EuroSAT,A_structured,3,3,WIPT - Support-only Transformer,1.8640001237392454
+EuroSAT,A_structured,3,4,WIPT - ProtoNet,-2.1919999688863783
+EuroSAT,A_structured,3,4,WIPT - Support-only Transformer,1.9413333952426939
+EuroSAT,A_structured,4,0,WIPT - ProtoNet,-1.467999890446663
+EuroSAT,A_structured,4,0,WIPT - Support-only Transformer,0.8880000501871024
+EuroSAT,A_structured,4,1,WIPT - ProtoNet,0.10400010645389557
+EuroSAT,A_structured,4,1,WIPT - Support-only Transformer,2.3626666992902727
+EuroSAT,A_structured,4,2,WIPT - ProtoNet,0.16000016033649445
+EuroSAT,A_structured,4,2,WIPT - Support-only Transformer,2.6026668399572372
+EuroSAT,A_structured,4,3,WIPT - ProtoNet,-0.30533332824705894
+EuroSAT,A_structured,4,3,WIPT - Support-only Transformer,2.700000000000003
+EuroSAT,A_structured,4,4,WIPT - ProtoNet,-1.5386666655540466
+EuroSAT,A_structured,4,4,WIPT - Support-only Transformer,4.12399998903274
+EuroSAT,A_structured,5,0,WIPT - ProtoNet,-0.6720000207424164
+EuroSAT,A_structured,5,0,WIPT - Support-only Transformer,0.9280000090599074
+EuroSAT,A_structured,5,1,WIPT - ProtoNet,0.5879999935626969
+EuroSAT,A_structured,5,1,WIPT - Support-only Transformer,2.174666655063632
+EuroSAT,A_structured,5,2,WIPT - ProtoNet,0.575999936461443
+EuroSAT,A_structured,5,2,WIPT - Support-only Transformer,2.1359998822212205
+EuroSAT,A_structured,5,3,WIPT - ProtoNet,-0.3173334360122695
+EuroSAT,A_structured,5,3,WIPT - Support-only Transformer,2.2079998701810837
+EuroSAT,A_structured,5,4,WIPT - ProtoNet,-0.46933338642120503
+EuroSAT,A_structured,5,4,WIPT - Support-only Transformer,5.274666705727576
+EuroSAT,B_stochastic,1,0,WIPT - ProtoNet,-0.48266658782959837
+EuroSAT,B_stochastic,1,0,WIPT - Support-only Transformer,1.3200001478195134
+EuroSAT,B_stochastic,1,1,WIPT - ProtoNet,0.2333332896232605
+EuroSAT,B_stochastic,1,1,WIPT - Support-only Transformer,2.1519999921321897
+EuroSAT,B_stochastic,1,2,WIPT - ProtoNet,0.16666654050349905
+EuroSAT,B_stochastic,1,2,WIPT - Support-only Transformer,2.40266652405262
+EuroSAT,B_stochastic,1,3,WIPT - ProtoNet,-0.4439999520778741
+EuroSAT,B_stochastic,1,3,WIPT - Support-only Transformer,1.1853334039449663
+EuroSAT,B_stochastic,1,4,WIPT - ProtoNet,-1.4013332903385276
+EuroSAT,B_stochastic,1,4,WIPT - Support-only Transformer,0.8560000777244454
+EuroSAT,B_stochastic,2,0,WIPT - ProtoNet,-0.30800004303455353
+EuroSAT,B_stochastic,2,0,WIPT - Support-only Transformer,2.1279999971389714
+EuroSAT,B_stochastic,2,1,WIPT - ProtoNet,0.3493333280086546
+EuroSAT,B_stochastic,2,1,WIPT - Support-only Transformer,2.594666755199441
+EuroSAT,B_stochastic,2,2,WIPT - ProtoNet,0.14266670942306803
+EuroSAT,B_stochastic,2,2,WIPT - Support-only Transformer,2.682666790485385
+EuroSAT,B_stochastic,2,3,WIPT - ProtoNet,-0.22800006866455647
+EuroSAT,B_stochastic,2,3,WIPT - Support-only Transformer,1.8960000306367846
+EuroSAT,B_stochastic,2,4,WIPT - ProtoNet,-0.8186667352914867
+EuroSAT,B_stochastic,2,4,WIPT - Support-only Transformer,2.2800000548362647
+EuroSAT,B_stochastic,3,0,WIPT - ProtoNet,-0.2040000617504205
+EuroSAT,B_stochastic,3,0,WIPT - Support-only Transformer,3.60400004982948
+EuroSAT,B_stochastic,3,1,WIPT - ProtoNet,0.16533342599868206
+EuroSAT,B_stochastic,3,1,WIPT - Support-only Transformer,3.1453336566686616
+EuroSAT,B_stochastic,3,2,WIPT - ProtoNet,-0.02133341133594513
+EuroSAT,B_stochastic,3,2,WIPT - Support-only Transformer,3.3186667084693937
+EuroSAT,B_stochastic,3,3,WIPT - ProtoNet,-0.17333339750767607
+EuroSAT,B_stochastic,3,3,WIPT - Support-only Transformer,2.904000163078301
+EuroSAT,B_stochastic,3,4,WIPT - ProtoNet,-0.5426668405532808
+EuroSAT,B_stochastic,3,4,WIPT - Support-only Transformer,3.622666698694232
+EuroSAT,B_stochastic,4,0,WIPT - ProtoNet,0.1120000034570694
+EuroSAT,B_stochastic,4,0,WIPT - Support-only Transformer,3.15333333909512
+EuroSAT,B_stochastic,4,1,WIPT - ProtoNet,0.12933344841002992
+EuroSAT,B_stochastic,4,1,WIPT - Support-only Transformer,2.982666689157483
+EuroSAT,B_stochastic,4,2,WIPT - ProtoNet,-0.04400002062320851
+EuroSAT,B_stochastic,4,2,WIPT - Support-only Transformer,2.9093332290649414
+EuroSAT,B_stochastic,4,3,WIPT - ProtoNet,0.0893334358930602
+EuroSAT,B_stochastic,4,3,WIPT - Support-only Transformer,2.9653334140777616
+EuroSAT,B_stochastic,4,4,WIPT - ProtoNet,0.09466677904129028
+EuroSAT,B_stochastic,4,4,WIPT - Support-only Transformer,3.4720001220703125
+EuroSAT,B_stochastic,5,0,WIPT - ProtoNet,0.7560000330209746
+EuroSAT,B_stochastic,5,0,WIPT - Support-only Transformer,3.5840000957250595
+EuroSAT,B_stochastic,5,1,WIPT - ProtoNet,0.4906667321920395
+EuroSAT,B_stochastic,5,1,WIPT - Support-only Transformer,2.730666819214818
+EuroSAT,B_stochastic,5,2,WIPT - ProtoNet,0.02133330851793147
+EuroSAT,B_stochastic,5,2,WIPT - Support-only Transformer,2.9960000753402696
+EuroSAT,B_stochastic,5,3,WIPT - ProtoNet,0.18400008231401443
+EuroSAT,B_stochastic,5,3,WIPT - Support-only Transformer,3.017333433032036
+EuroSAT,B_stochastic,5,4,WIPT - ProtoNet,-0.14266670346260213
+EuroSAT,B_stochastic,5,4,WIPT - Support-only Transformer,3.17733334004879
+EuroSAT,C_combined,1,0,WIPT - ProtoNet,0.0440000653266992
+EuroSAT,C_combined,1,0,WIPT - Support-only Transformer,2.0853334277868356
+EuroSAT,C_combined,1,1,WIPT - ProtoNet,0.4493333607912149
+EuroSAT,C_combined,1,1,WIPT - Support-only Transformer,2.3373334586620302
+EuroSAT,C_combined,1,2,WIPT - ProtoNet,0.3400000274181423
+EuroSAT,C_combined,1,2,WIPT - Support-only Transformer,2.7186668187379865
+EuroSAT,C_combined,1,3,WIPT - ProtoNet,-0.0679999381303702
+EuroSAT,C_combined,1,3,WIPT - Support-only Transformer,1.8600000888109207
+EuroSAT,C_combined,1,4,WIPT - ProtoNet,-0.5479999721050177
+EuroSAT,C_combined,1,4,WIPT - Support-only Transformer,2.249333482980731
+EuroSAT,C_combined,2,0,WIPT - ProtoNet,-0.27733341455459737
+EuroSAT,C_combined,2,0,WIPT - Support-only Transformer,2.0586665928363743
+EuroSAT,C_combined,2,1,WIPT - ProtoNet,0.16399987339973876
+EuroSAT,C_combined,2,1,WIPT - Support-only Transformer,2.0946666359901442
+EuroSAT,C_combined,2,2,WIPT - ProtoNet,0.01599987745284892
+EuroSAT,C_combined,2,2,WIPT - Support-only Transformer,1.9439999848604188
+EuroSAT,C_combined,2,3,WIPT - ProtoNet,-0.21466674208640768
+EuroSAT,C_combined,2,3,WIPT - Support-only Transformer,1.8399999558925657
+EuroSAT,C_combined,2,4,WIPT - ProtoNet,-0.17599991858005382
+EuroSAT,C_combined,2,4,WIPT - Support-only Transformer,2.8693335086107226
+EuroSAT,C_combined,3,0,WIPT - ProtoNet,-0.3733334571123095
+EuroSAT,C_combined,3,0,WIPT - Support-only Transformer,2.1159999936819105
+EuroSAT,C_combined,3,1,WIPT - ProtoNet,-0.0933333978056865
+EuroSAT,C_combined,3,1,WIPT - Support-only Transformer,2.3840000599622755
+EuroSAT,C_combined,3,2,WIPT - ProtoNet,-0.08000009953975251
+EuroSAT,C_combined,3,2,WIPT - Support-only Transformer,2.234666714072233
+EuroSAT,C_combined,3,3,WIPT - ProtoNet,-0.23600006252527095
+EuroSAT,C_combined,3,3,WIPT - Support-only Transformer,2.70400007516146
+EuroSAT,C_combined,3,4,WIPT - ProtoNet,-0.5293334260582938
+EuroSAT,C_combined,3,4,WIPT - Support-only Transformer,3.0413334578275624
+EuroSAT,C_combined,4,0,WIPT - ProtoNet,1.3093334212899208
+EuroSAT,C_combined,4,0,WIPT - Support-only Transformer,4.6280002146959305
+EuroSAT,C_combined,4,1,WIPT - ProtoNet,0.8106666684150738
+EuroSAT,C_combined,4,1,WIPT - Support-only Transformer,2.8666667386889486
+EuroSAT,C_combined,4,2,WIPT - ProtoNet,0.8293333947658539
+EuroSAT,C_combined,4,2,WIPT - Support-only Transformer,3.1893334299325957
+EuroSAT,C_combined,4,3,WIPT - ProtoNet,0.36266669183969924
+EuroSAT,C_combined,4,3,WIPT - Support-only Transformer,4.22533347755671
+EuroSAT,C_combined,4,4,WIPT - ProtoNet,0.4360000431537614
+EuroSAT,C_combined,4,4,WIPT - Support-only Transformer,7.37066695541143
+EuroSAT,C_combined,5,0,WIPT - ProtoNet,1.6813333481550217
+EuroSAT,C_combined,5,0,WIPT - Support-only Transformer,1.3426667019724832
+EuroSAT,C_combined,5,1,WIPT - ProtoNet,1.0333333864808125
+EuroSAT,C_combined,5,1,WIPT - Support-only Transformer,0.11733337938785837
+EuroSAT,C_combined,5,2,WIPT - ProtoNet,1.0080000266432805
+EuroSAT,C_combined,5,2,WIPT - Support-only Transformer,0.5653333321213765
+EuroSAT,C_combined,5,3,WIPT - ProtoNet,0.7439999729394913
+EuroSAT,C_combined,5,3,WIPT - Support-only Transformer,1.1039999902248354
+EuroSAT,C_combined,5,4,WIPT - ProtoNet,0.6186666250228896
+EuroSAT,C_combined,5,4,WIPT - Support-only Transformer,1.5093333452939994

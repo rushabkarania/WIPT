@@ -1,0 +1,10 @@
+file,rows,columns,description
+paper/in_domain_accuracy.csv,9,"model, mean, std_across_seeds, seed_42, seed_123, seed_2024, seed_7, seed_999",miniImageNet held-out accuracy across five evaluation seeds
+paper/cross_domain_accuracy.csv,27,"dataset, model, accuracy, acc_ci95, n_episodes, separation_ratio, margin_norm",cross-domain accuracy and geometry summaries
+paper/cross_domain_paired_tests.csv,6,"dataset, comparison, wipt_accuracy, competitor_accuracy, mean_difference_pp, difference_ci95_pp, paired_t, paired_p, n_episodes",paired WIPT comparisons on matched episodes
+paper/corruption_abc.csv,144,"dataset, category, severity, model, accuracy, ci95, n_episodes",custom A/B/C corruption results with frozen ProtoNet
+paper/eurosat_query_transitions.csv,4,"protonet_state, wipt_state, n_queries, row_percentage, all_percentage",EuroSAT ProtoNet-to-WIPT decision transitions
+paper/eurosat_margin_bins.csv,20,"margin_bin, n_queries, median_protonet_margin, mean_protonet_margin, protonet_accuracy, wipt_accuracy, wipt_minus_protonet_pp, difference_ci95_pp",EuroSAT WIPT effect versus ProtoNet true-class margin
+paper/support_noise_summary.csv,6,"severity, condition, model, noise_amplification_ratio, absolute_margin, accuracy",support-noise mechanism values used in Fig. 6
+paper/design_ablations.csv,33,"dataset, model, accuracy, baseline_accuracy, delta_pp, family",combined WIPT design ablations
+figure_inputs/margin_geometry_paired.csv,4500,"dataset, episode, protonet_margin, support_transformer_margin, wipt_margin, wipt_minus_protonet, wipt_minus_support_transformer",paired episode-level margins used in Fig. 4

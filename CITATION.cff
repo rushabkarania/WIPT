@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please acknowledge the authors when referencing this research software."
+title: "WIPT: Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning"
+type: software
+authors:
+  - family-names: Karania
+    given-names: Rushab Rasik
+  - family-names: Maul
+    given-names: Tomas

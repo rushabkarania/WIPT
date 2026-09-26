@@ -1,0 +1,5 @@
+dataset,shot,metric,mean,training_seed_sd,training_seed_ci95,n_training_seeds,positive_runs,negative_runs
+CUB,5,wipt_minus_protonet_pp,-0.08871111111110963,0.10607688802391736,0.1317118529007902,5,0,5
+CUB,5,rescue_rate_percent,8.377358490566039,3.6827406691354754,4.57272650358636,5,5,0
+CUB,5,break_rate_percent,0.27207918993779234,0.1852637572080343,0.23003533749717933,5,5,0
+CUB,5,net_correct_change,-99.8,119.33649902691128,148.17583451339428,5,0,5

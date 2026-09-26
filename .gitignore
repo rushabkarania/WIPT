@@ -1,0 +1,42 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+kaggle.json
+
+# Dataset images and model weights
+/data/
+/checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Temporary runs, restart caches and exports
+*.log
+*.tmp
+*.bak
+/results/raw/**/partials/
+/results/raw/boundary_smoke/
+/results/summary/
+/figures_export/
+/runs/
+/wandb/

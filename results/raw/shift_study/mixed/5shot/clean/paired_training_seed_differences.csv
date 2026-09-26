@@ -1,0 +1,7 @@
+dataset,training_seed,comparison,difference_pp
+CUB,0,WIPT - Support-only Transformer,0.07377781470617606
+CUB,0,WIPT - ProtoNet,-0.0622221787770485
+EuroSAT,0,WIPT - Support-only Transformer,1.5608889381090734
+EuroSAT,0,WIPT - ProtoNet,-0.8640000422795708
+ISIC,0,WIPT - Support-only Transformer,2.008000124494238
+ISIC,0,WIPT - ProtoNet,-0.6284444183111191

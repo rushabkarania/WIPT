@@ -1,0 +1,5 @@
+dataset,shot,metric,mean,training_seed_sd,training_seed_ci95,n_training_seeds,positive_runs,negative_runs
+EuroSAT,5,wipt_minus_protonet_pp,-0.7212444444444429,0.8384315986882975,1.0410503310476853,5,0,5
+EuroSAT,5,rescue_rate_percent,12.667079207920791,2.0993186102415278,2.606648339096065,5,5,0
+EuroSAT,5,break_rate_percent,3.5096876745285046,1.4292191465059205,1.7746099597599125,5,5,0
+EuroSAT,5,net_correct_change,-811.4,943.2355485243334,1171.1816224286442,5,0,5

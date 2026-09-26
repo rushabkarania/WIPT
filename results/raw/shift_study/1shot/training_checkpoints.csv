@@ -1,0 +1,3 @@
+mode,model,n_shot,training_seed,best_epoch,best_validation_accuracy,elapsed_seconds_to_best,checkpoint
+mixed,wipt,1,0,4,95.57333552837372,299.70487213134766,checkpoints\shift_study\mixed\1shot\seed_0\wipt_l2.pth
+mixed,support,1,0,33,96.72000193595886,2445.807348251343,checkpoints\shift_study\mixed\1shot\seed_0\support_transformer.pth
