@@ -1,6 +1,6 @@
 # WIPT: Within-Instance Prototypical Transformer
 
-This is the code for my research project with Tomas Maul, **Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**.
+This repository contains the code for WIPT, a research project by Rushab Rasik Karania and Tomas Maul, **Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**.
 
 The idea behind WIPT is to let the support examples and a query interact before making a prediction. A Transformer processes their image embeddings together, and the transformed support embeddings are averaged into a prototype for each class. The query is assigned to the nearest prototype.
 
@@ -78,12 +78,12 @@ Add `--pdf` to export vector PDFs. The script also writes paired statistics, bou
 
 ```bash
 python -m venv .venv
-# Activate .venv using the command for your shell.
+# Activate .venv using the appropriate shell command.
 python -m pip install -r requirements.txt
 python -m scripts.check_models
 ```
 
-Use a PyTorch/torchvision build that matches your CPU or CUDA setup. The requirements list the dependencies used by the code; they do not pin the exact original environment.
+Use a PyTorch/torchvision build that matches the CPU or CUDA environment. The requirements list the dependencies used by the code; they do not pin the exact original environment.
 
 The model check uses synthetic embeddings and a stub encoder. It does not download ViT weights or check image feature extraction. Creating the pretrained encoder for a real run may download its weights.
 
@@ -233,9 +233,9 @@ These folders contain different experiment settings, so their results should be 
 
 Complete combined result tables are included; duplicate files, temporary restart partitions, and small development outputs are omitted. The figure generator checks 675,000 query records and 12 paired comparisons. Its boundary bins split at zero margin, so they can differ from older binned summaries.
 
-Model weights and datasets are excluded by `.gitignore`. To run model evaluations, retrain the heads or provide compatible checkpoints. You can regenerate the figures directly from the saved CSVs.
+Model weights and datasets are excluded by `.gitignore`. To run model evaluations, retrain the heads or provide compatible checkpoints. The figures can be regenerated directly from the saved CSVs.
 
-Experiment commands can overwrite existing results. Use a separate output directory for new runs if you want to keep the saved records.
+Experiment commands can overwrite existing results. Use a separate output directory for new runs to preserve the saved records.
 
 The `experimental/` folder contains optional meta-adaptation and alternative-source code. These extensions are outside the reported study. The meta-adaptation branch updates head parameters using target supports, unlike the main WIPT inference procedure.
 
