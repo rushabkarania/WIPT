@@ -7,3 +7,16 @@ authors:
     given-names: Rushab Rasik
   - family-names: Maul
     given-names: Tomas
+repository-code: "https://github.com/rushabkarania/WIPT"
+preferred-citation:
+  type: article
+  title: "Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes"
+  authors:
+    - family-names: Karania
+      given-names: Rushab Rasik
+    - family-names: Maul
+      given-names: Tomas
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2609.30769"
+  url: "https://arxiv.org/abs/2609.30769"

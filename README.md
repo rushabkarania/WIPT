@@ -1,6 +1,8 @@
 # WIPT: Within-Instance Prototypical Transformer
 
-This repository contains the code for WIPT, a research project by Rushab Rasik Karania and Tomas Maul, **Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**.
+This repository contains the code for WIPT, a research project by Rushab Rasik Karania and Tomas Maul, [**Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**](https://doi.org/10.48550/arXiv.2609.30769).
+
+Paper: [arXiv:2609.30769](https://arxiv.org/abs/2609.30769) · [DOI](https://doi.org/10.48550/arXiv.2609.30769) (preprint).
 
 The idea behind WIPT is to let the support examples and a query interact before making a prediction. A Transformer processes their image embeddings together, and the transformed support embeddings are averaged into a prototype for each class. The query is assigned to the nearest prototype.
 
@@ -241,6 +243,19 @@ The `experimental/` folder contains optional meta-adaptation and alternative-sou
 
 ## Citation and permissions
 
-Author and software metadata are in [CITATION.cff](CITATION.cff). There is no publication DOI or arXiv link listed.
+The paper is available as an [arXiv preprint](https://doi.org/10.48550/arXiv.2609.30769). Author and software metadata, including the paper citation, are in [CITATION.cff](CITATION.cff).
+
+```bibtex
+@misc{karania2026queryconditioned,
+  title={Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes},
+  author={Rushab Rasik Karania and Tomas Maul},
+  year={2026},
+  eprint={2609.30769},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  doi={10.48550/arXiv.2609.30769},
+  url={https://arxiv.org/abs/2609.30769}
+}
+```
 
 The copyright notice is in [LICENSE](LICENSE). The repository does not currently grant an open-source license.
