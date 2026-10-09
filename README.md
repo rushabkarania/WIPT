@@ -1,6 +1,6 @@
 # WIPT: Within-Instance Prototypical Transformer
 
-This repository contains the code for WIPT, a research project by Rushab Rasik Karania and Tomas Maul, [**Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**](https://doi.org/10.48550/arXiv.2609.30769).
+[**Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**](https://doi.org/10.48550/arXiv.2609.30769).
 
 Paper: [arXiv:2609.30769](https://arxiv.org/abs/2609.30769) · [DOI](https://doi.org/10.48550/arXiv.2609.30769) (preprint).
 
